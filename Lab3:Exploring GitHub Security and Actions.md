@@ -5,6 +5,10 @@
     
 # Lab Steps: 
 
+## Fork the WebGoat repo :
+
+![image](https://github.com/firassaada/DevSecops-Lab/assets/94303698/e6e4fc81-b3e5-44eb-9781-5440e56e7ef0)
+
 ![image](https://github.com/firassaada/DevSecops-Lab/assets/94303698/6a4b5896-0a9e-41ad-a2cb-a55771f425a9)
 
 ![image](https://github.com/firassaada/DevSecops-Lab/assets/94303698/894f4492-8bef-462e-86ab-ad4502db4ea7)
