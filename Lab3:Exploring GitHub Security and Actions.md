@@ -1,10 +1,15 @@
+
+ ## Travail Réalisé par :
+    SAADA Firas
+    BOUHAHA Aymen
+    
 # Lab Steps: 
 
 ![image](https://github.com/firassaada/DevSecops-Lab/assets/94303698/6a4b5896-0a9e-41ad-a2cb-a55771f425a9)
 
 ![image](https://github.com/firassaada/DevSecops-Lab/assets/94303698/894f4492-8bef-462e-86ab-ad4502db4ea7)
 
-# Creating a new bbranch for testing :
+# Creating a new branch for testing :
 
 ![image](https://github.com/firassaada/DevSecops-Lab/assets/94303698/1d8759d8-f5de-4722-9823-1d1b29106891)
 
